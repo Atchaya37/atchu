@@ -39,6 +39,13 @@ function First(){
                 <p>Price: $300.00</p>
                 <button onclick="addToCart('Product 1', 10)">Add to Cart</button>
             </div>
+            <div class="product" id="product1">
+            
+                <h3>shirts</h3>
+                <img src="https://assets.ajio.com/medias/sys_master/root/20240507/mdc0/663a557116fd2c6e6af0ef6f/-473Wx593H-467293008-brown-MODEL.jpg" width="190px" alt="shirt" />
+                <p>Price: $300.00</p>
+                <button onclick="addToCart('Product 1', 10)">Add to Cart</button>
+            </div>
             <div class="product" id="product2">
                 <h3>pant</h3>
                 <img src="https://www.beyours.in/cdn/shop/files/eveeryday-pant--black-1.jpg?v=1688369505" width="160px" alt="pant" />
